@@ -323,13 +323,13 @@ class _CostPageState extends State<CostPage> {
                       style: TextStyle(color: Colors.white, fontSize: 14),
                     ),
                     style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.green, // Ubah warna tombol ke hijau
+                      backgroundColor: Colors.green, 
                       shape: RoundedRectangleBorder(
                         borderRadius:
-                            BorderRadius.circular(4), // Rounded corners
+                            BorderRadius.circular(4), 
                       ),
                       textStyle: const TextStyle(
-                        fontSize: 12, // Size of the text // Bold text
+                        fontSize: 12, 
                       ),
                     ),
                   ),
